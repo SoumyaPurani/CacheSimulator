@@ -1,0 +1,30 @@
+Level 1 cache: sets: 32, lines 2, block size: 64
+Cache L1 miss @ 0x0016
+Stored word: 0x4d2
+Cache L1 hit @ 0x0016
+Loaded word: 0x4d2
+Cache L1 hit @ 0x0030
+Stored word: 0xd80
+Cache L1 hit @ 0x0030
+Loaded word: 0xd80
+Cache L1 miss @ 0x0046
+Stored word: 0x11d7
+Cache L1 hit @ 0x0046
+Loaded word: 0x11d7
+Cache L1 miss @ 0x1016
+Stored word: 0x162e
+Cache L1 hit @ 0x1016
+Loaded word: 0x162e
+Cache L1 hit @ 0x0016
+Loaded word: 0x4d2
+Cache L1 hit @ 0x1016
+Loaded word: 0x162e
+Cache L1 miss @ 0x0816
+Stored word: 0x1a85
+Cache L1 hit @ 0x0816
+Loaded word: 0x1a85
+Cache L1 hit @ 0x1016
+Loaded word: 0x162e
+Cache L1 miss @ 0x0016
+Loaded word: 0x4d2
+Cache: L1, hits: 9, misses: 5
